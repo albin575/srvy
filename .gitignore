@@ -1,0 +1,8 @@
+# Dependencies & environment
+node_modules/
+.env
+
+# Tool and cache directories
+.freebuff/
+.DS_Store
+Thumbs.db
